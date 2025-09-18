@@ -1,4 +1,4 @@
-package NitLab;
+package NitClass;
 
 public class Addition {
 
