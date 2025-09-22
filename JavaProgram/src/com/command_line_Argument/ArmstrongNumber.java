@@ -1,4 +1,4 @@
-package NitLab.command_lina_arg;
+package com.command_line_Argument;
 
 public class ArmstrongNumber {
 
