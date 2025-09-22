@@ -1,4 +1,4 @@
-package NitLab;
+package NitLab.command_lina_arg;
 
 public class Factorial {
 
