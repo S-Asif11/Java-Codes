@@ -20,7 +20,7 @@ public class ElectricityBill {
 			bill=160+(rsPerUnit);
 			System.out.println(rUnit);
 			System.out.println(rsPerUnit);
-			System.out.println(bill);
+			System.out.println("Electricity Bill is: "+bill);
 			
 		}
 		if(unit>250) {
@@ -29,7 +29,7 @@ public class ElectricityBill {
 			bill=160+(rsPerUnit);
 			System.out.println(rUnit);
 			System.out.println(rsPerUnit);
-			System.out.println(bill);
+			System.out.println("Electricity bill is: "+bill);
 			
 		}
 
