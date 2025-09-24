@@ -4,14 +4,16 @@ public class ConcatStrings {
 
 	public static void main(String[] args) {
 		
-		StringBuilder sb =new StringBuilder();
+		String inp = args[0] + " " +args[1] + " " +args[2] + " " +args[3]; 
 		
-		for(String s: args)
-		{
-			sb.append(s).append(" ");
-		}
+//		StringBuilder sb =new StringBuilder();
+//		
+//		for(String s: args)
+//		{
+//			sb.append(s).append(" ");
+//		}
 		
-		System.out.println("Concatenated String: "+sb);
+		System.out.println("Concatenated String: "+inp);
 
 	}
 
