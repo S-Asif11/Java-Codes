@@ -17,6 +17,7 @@ public class TwoDigitDiffResult {
 		int result =TwoDigitsDifference.getDiffOfDigits(x);
 		
 		System.out.println(result);
+		sc.close();
 		
 		
 		
