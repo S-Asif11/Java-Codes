@@ -17,6 +17,8 @@ public class NxtMultipleOfHundred {
 		
 		System.out.println("Next Multiple of Hundred is: "+result);
 		
+		sc.close();
+		
 		
 		
 		
