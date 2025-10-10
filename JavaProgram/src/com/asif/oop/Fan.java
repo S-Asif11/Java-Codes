@@ -26,6 +26,8 @@ public class Fan {
 		
 		fan.switchOn();
 		fan.switchOff();
+		
+		sc.close();
 	}
 
 }
