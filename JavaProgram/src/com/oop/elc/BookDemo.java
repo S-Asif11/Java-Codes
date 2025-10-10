@@ -22,6 +22,8 @@ public class BookDemo {
 		bd.setBookDetails(id, name, price);
 		bd.getBookDetails();
 		
+		sc.close();
+		
 		
 		
 	}
