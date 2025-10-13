@@ -29,6 +29,8 @@ public class Dog {
 		pet.getDogInformation();
 		pet.bark();
 		
+		sc.close();
+		
 
 	}
 
