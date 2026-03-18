@@ -2,7 +2,7 @@ package logicbuilding.conditionalthinking;
 
 import java.util.Scanner;
 
-public class PositiveNegative {
+public class EvenOdd {
 
 	public static void main(String[] args) {
 		//check a number is positive negative or zero?
