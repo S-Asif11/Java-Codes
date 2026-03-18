@@ -33,7 +33,7 @@ public class Emp2Demo {
         System.out.println(emp);
         System.out.println(emp.getEmployeeName()+" "+emp.getEmployeeDesignation(salary)+".");
 
-
+sc.close();
 
 
     }
