@@ -16,6 +16,7 @@ public class HotelDemo {
 		
 		Hotel.calculateTotalAmount(roomRate,days);
 		Hotel.calculateDiscountedAmount(days, roomRate);
+		sc.close();
 		
 
 	}
